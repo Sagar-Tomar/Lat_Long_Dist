@@ -1,0 +1,11 @@
+{
+  "name": "distlatlongusingfile",
+  "version": "1.0.0",
+  "description": "It will return distance with user ref Lattitue and Longitude and the coordinates given in file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
